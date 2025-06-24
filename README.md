@@ -1,4 +1,5 @@
-🌿 Plant Disease Detection Using Deep Learning
+🌿 Plant Disease Detection Using Deep Learning:
+
 This project demonstrates how to detect plant diseases using a Convolutional Neural Network (CNN) implemented in Python via a Jupyter Notebook.
 It leverages image classification to help identify common plant leaf diseases.
 
