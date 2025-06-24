@@ -21,6 +21,7 @@ Jupyter Notebook/Google Colab
 🗂️ Dataset
 
 The dataset includes labeled images of healthy and diseased plant leaves. The images are preprocessed and used to train a CNN model for classification.
+
 Direct Download link : "https://data.mendeley.com/public-files/datasets/tywbtsjrjv/files/b4e3a32f-c0bd-4060-81e9-6144231f2520/file_downloaded""
 
 ⚙️ Features
